@@ -41,7 +41,7 @@ ASP.NET app for managing and conducting online elections in IIITA. This project 
 1. Create a new <del>Project</del> Website in Visual Studio  
 2. Fork this repo  
 3. Copy all the files in this repo to website's folder  
-4. Configure Database on the machine accordingly  
+4. Configure Database on the machine accordingly (Using voting.mdf file checked in)
 5. Run the website  
 </pre>
 
